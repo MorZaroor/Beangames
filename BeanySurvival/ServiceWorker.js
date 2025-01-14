@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-BeanySurvival-1.0";
 const contentToCache = [
     "Build/BeanySurvival.loader.js",
-    "Build/BeanySurvival.framework.js.br",
-    "Build/BeanySurvival.data.br",
-    "Build/BeanySurvival.wasm.br",
+    "Build/BeanySurvival.framework.js",
+    "Build/BeanySurvival.data",
+    "Build/BeanySurvival.wasm",
     "TemplateData/style.css"
 
 ];
