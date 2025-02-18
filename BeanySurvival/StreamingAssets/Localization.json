@@ -1,0 +1,191 @@
+﻿{
+    "play": {
+        "en": "Play",
+        "jp": "プレイ"
+    },
+    "title": {
+        "en": "Beany\nSurvival",
+        "jp": "まめちゃん\nサバイバル"
+    },
+    "quit": {
+        "en": "Quit",
+        "jp": "終了"
+    },
+    "next": {
+        "en": "Next",
+        "jp": "つぎ"
+    },
+    "back": {
+        "en": "Previous",
+        "jp": "まえ"
+    },
+    "language": {
+        "en": "English->日本語",
+        "jp": "日本語->English"
+    },
+    "gameover": {
+        "en": "Game Over!",
+        "jp": "ゲームオーバー！"
+    },
+    "respawn_text": {
+        "en": "Respawning in: ",
+        "jp": "リスポーン時間: "
+    },
+    "mainmenu": {
+        "en": "Main Menu",
+        "jp": "メインメニュー"
+    },
+    "restart": {
+        "en": "Restart",
+        "jp": "リスタート"
+    },
+    "upgrade": {
+        "en": "Upgrade",
+        "jp": "アップグレード"
+    },
+    "base_upgrades": {
+        "en": "Base Upgrades",
+        "jp": "基地のアップグレード"
+    },
+    "player_upgrades": {
+        "en": "Player Upgrades",
+        "jp": "プレイヤーのアップグレード"
+    },
+    "turret_skills": {
+        "en": "Turret Skills",
+        "jp": "タレットスキル"
+    },
+    "turret_skill_btn": {
+        "en": "Open Turret Skill",
+        "jp": "タレットスキルを開けて"
+    },
+    "repair": {
+        "en": "Repair",
+        "jp": "修理"
+    },
+    "activate": {
+        "en": "Activate",
+        "jp": "起動"
+    },
+    "next_wave_in": {
+        "en": "Next wave in: {0} seconds",
+        "jp": "次のウェーブまで: {0}秒"
+    },
+    "wave_starting": {
+        "en": "Wave {0} starting!",
+        "jp": "ウェーブ{0}開始！"
+    },
+    "wave_cleared": {
+        "en": "Wave {0} cleared! Choose your reward.",
+        "jp": "ウェーブ{0}クリア！報酬を選んでください。"
+    },
+    "enemies_remaining": {
+        "en": "Enemies Remaining: {0}",
+        "jp": "残りの敵: {0}"
+    },
+    "wave_number": {
+        "en": "Wave: {0}",
+        "jp": "ウェーブ: {0}"
+    },
+    "wave_number_reached": {
+        "en": "Wave Number Reached: {0}",
+        "jp": "到達ウェーブ数: {0}"
+    },
+    "total_enemies_slayed": {
+        "en": "Total Enemies Slayed: {0}",
+        "jp": "倒した敵の総数: {0}"
+    },
+    "time_survived": {
+        "en": "Time Survived: {0}s",
+        "jp": "生存時間: {0}"
+    },
+    "total_gold_earned": {
+        "en": "Total Gold Earned: {0}",
+        "jp": "獲得ゴールド総額: {0}"
+    },
+    "total_score": {
+        "en": "Total Score: {0}",
+        "jp": "合計スコア: {0}"
+    },
+    "high_score": {
+        "en": "Highscore: {0}",
+        "jp": "ハイスコア: {0}"
+    },
+    "new_high_score": {
+        "en": "New Highscore!",
+        "jp": "新記録！"
+    },
+    "submit_score": {
+        "en": "Submit Score",
+        "jp": "スコアを送信"
+    },
+    "enter_text": {
+        "en": "Enter Your Name",
+        "jp": "名前を入力してください"
+    },
+    "hall_of_fame": {
+        "en": "Hall of\nFame",
+        "jp": "殿堂"
+    },
+    "damage_up": {
+        "en": "Damage Up",
+        "jp": "ダメージアップ"
+    },
+    "damage_up_description": {
+        "en": "Increase base damage by 10%",
+        "jp": "基本ダメージを10%増加"
+    },
+    "fire_rate_up": {
+        "en": "Fire Rate Up",
+        "jp": "発射速度アップ"
+    },
+    "fire_rate_up_description": {
+        "en": "Increase base fire rate by 10%",
+        "jp": "基本発射速度を10%増加"
+    },
+    "move_speed_up": {
+        "en": "Move Speed Up",
+        "jp": "移動速度アップ"
+    },
+    "move_speed_up_description": {
+        "en": "Increase movement speed by 10%",
+        "jp": "移動速度を10%増加"
+    },
+    "max_health_up": {
+        "en": "Max HP Up",
+        "jp": "最大HPアップ"
+    },
+    "sprint_speed_up": {
+        "en": "Sprint Speed Up",
+        "jp": "スプリント速度アップ"
+    },
+    "gold": {
+        "en": "Gold",
+        "jp": "ゴールド"
+    },
+    "gold_description": {
+        "en": "Gain 100 Gold",
+        "jp": "100ゴールド獲得"
+    },
+    "reroll": {
+        "en": "Reroll ({0} Gold)",
+        "jp": "リロール \n({0} ゴールド)"
+    },
+    "acquire_weapon": {
+        "en": "Acquire {0}",
+        "jp": "{0}を獲得"
+    },
+    "acquire_weapon_description": {
+        "en": "Add {0} to your arsenal",
+        "jp": "{0}を武器庫に追加"
+    },
+    "upgrade_weapon": {
+        "en": "Upgrade {0}",
+        "jp": "{0}を\nアップグレード"
+    },
+    "upgrade_weapon_description": {
+        "en": "Increase {0}'s stats",
+        "jp": "{0}のレベルを向上"
+    }
+
+}
