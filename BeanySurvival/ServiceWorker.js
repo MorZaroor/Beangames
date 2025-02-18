@@ -1,9 +1,9 @@
-const cacheName = "DefaultCompany-BeanySurvival-1.0";
+const cacheName = "M.Z-BeanySurvival-1.0";
 const contentToCache = [
-    "Build/BeanySurvival.loader.js",
-    "Build/BeanySurvival.framework.js",
-    "Build/BeanySurvival.data",
-    "Build/BeanySurvival.wasm",
+    "Build/buildsurvivalwebgl.loader.js",
+    "Build/buildsurvivalwebgl.framework.js",
+    "Build/buildsurvivalwebgl.data",
+    "Build/buildsurvivalwebgl.wasm",
     "TemplateData/style.css"
 
 ];
