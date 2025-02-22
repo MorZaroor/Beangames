@@ -132,24 +132,24 @@
         "jp": "ダメージアップ"
     },
     "damage_up_description": {
-        "en": "Increase base damage by 10%",
-        "jp": "基本ダメージを10%増加"
+        "en": "Increase base damage by 20%",
+        "jp": "基本ダメージを20%増加"
     },
     "fire_rate_up": {
         "en": "Fire Rate Up",
         "jp": "発射速度アップ"
     },
     "fire_rate_up_description": {
-        "en": "Increase base fire rate by 10%",
-        "jp": "基本発射速度を10%増加"
+        "en": "Increase base fire rate by 20%",
+        "jp": "基本発射速度を20%増加"
     },
     "move_speed_up": {
         "en": "Move Speed Up",
         "jp": "移動速度アップ"
     },
     "move_speed_up_description": {
-        "en": "Increase movement speed by 10%",
-        "jp": "移動速度を10%増加"
+        "en": "Increase movement speed by 20%",
+        "jp": "移動速度を20%増加"
     },
     "max_health_up": {
         "en": "Max HP Up",
