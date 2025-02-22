@@ -184,8 +184,8 @@
         "jp": "{0}を\nアップグレード"
     },
     "upgrade_weapon_description": {
-        "en": "Increase {0}'s stats",
-        "jp": "{0}のレベルを向上"
+        "en": "Increase {0}'s Level (40% Damage, 20% Fire rate Per Lv)",
+        "jp": "{0}のレベルを上昇 (ダメージ40%増加、発射速度20%向上 (レベルごと))"
     }
 
 }
